@@ -3,3 +3,8 @@ SpeechRecognition
 PyAudio
 pygame
 selenium
+smtplib
+requests
+pygame
+urllib
+bs4
